@@ -1,2 +1,4 @@
+VERY GOOD THAT YOU HAVE STARTED PROGRAMMING
+
 # Add2Numbers
 Add two numbers using C
